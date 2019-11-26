@@ -5,6 +5,7 @@ Basics of Google Earth Engine for BIOL 5700, Advanced Data Analytics<br></br>
 This exercise will provide basic information on using Google Earth Engine for analysis of remotely sensed datasets. <br></br>
 
 Exercise Webpage - https://chrismgentry.github.io/Google-Earth-Engine/ <br></br>
+Exercise Script - https://code.earthengine.google.com/6e33ba434c59725095c3b0a85e3f69e8 <br></br>
 
 ## Website
 https://code.earthengine.google.com/
